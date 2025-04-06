@@ -82,6 +82,7 @@
     ![2025-02-15_14-21-51](https://github.com/user-attachments/assets/78ae0306-52b7-433f-901c-e5d3b3b4bb83)
 
     - СтатьяРасхода - СправочникСсылка.СтатьиДвиженияДенежныхСредств
+      
     ![2025-02-15_14-22-46](https://github.com/user-attachments/assets/75cab8bd-2ec7-4736-bb6d-4b44fe1c234d)
 
     - РазделитьПоТоварам - Булево
