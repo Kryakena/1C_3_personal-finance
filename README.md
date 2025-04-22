@@ -41,6 +41,8 @@
 
 ![2025-02-15_14-06-09](https://github.com/user-attachments/assets/563406f8-93dc-423f-b64e-486a3c6bd9ec)
 
+![2025-04-22_17-47-08](https://github.com/user-attachments/assets/9aa4ccb8-02f1-49c7-ac29-ff47efad0735)
+
 6. Создайте справочник **Номенклатура** с длиной наименования 150 и включенной иерархией групп и элементов.
 
 ![2025-02-15_14-09-02](https://github.com/user-attachments/assets/383ad52f-3dbb-47cc-9a20-f253f2507e29)
